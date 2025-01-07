@@ -20,7 +20,11 @@ Hi there! I'm **Alex Grajdan**, a passionate and detail-oriented **Site Reliabil
 Here are some of the highlights of my work:
 
 ### [Personal Portfolio](https://github.com/alexgrajdan/alexgrajdan.github.io)
+
 A showcase of my skills, projects, and accomplishments. Currently working on migrating this site to the cloud (AWS/Azure).
+
+![Portfolio](/alexgrajdan/img/website%20main%20photo.png)  
+*Personal Portfolio Site*
 ---
 
 ## 💼 Professional Experience
