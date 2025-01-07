@@ -23,6 +23,7 @@ Here are some of the highlights of my work:
 
 A showcase of my skills, projects, and accomplishments. Currently working on migrating this site to the cloud (AWS/Azure).
 
+
 ![Portfolio](https://github.com/alexgrajdan/alexgrajdan/blob/main/img/website%20main%20photo.png?raw=true)
 
 ## 💼 Professional Experience
