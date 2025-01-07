@@ -41,7 +41,8 @@ I have worked as an **SRE**, where my responsibilities include:
 
 Feel free to reach out to me:
 
-- LinkedIn: [linkedin.com/in/alexgrajdan](https://www.linkedin.com/in/alexandru-gr%C4%83jdan-542a29205/)
+- LinkedIn 🔗: [linkedin.com/in/alexgrajdan](https://www.linkedin.com/in/alexandru-gr%C4%83jdan-542a29205/)
+- Contact form ✉: [Get in touch](https://alexgrajdan.github.io/#contact)
 
 ---
 
