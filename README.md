@@ -24,8 +24,8 @@
 
 <div align="center"> 
   <a href="https://alexgrajdan.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/My%20website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+  <img src="https://img.shields.io/badge/My%20website-00BCD4?style=for-the-badge&logo=todoist&logoColor=white" alt="My website" />
+</a>
 </div>
 
 
