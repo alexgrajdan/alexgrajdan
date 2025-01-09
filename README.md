@@ -7,7 +7,7 @@
   I'm a passionate and detail-oriented <strong>Site Reliability Engineer (SRE)</strong>. I have experience in a variety of technical areas, including Linux, networking, cloud computing (GCP), Kubernetes, and more. I'm always excited about new challenges and finding innovative solutions.
 </div>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="padding-top: 20px;">
   <img src="https://img.icons8.com/color/48/000000/rocket.png"/>
   <img src="https://img.icons8.com/color/48/000000/laptop.png"/>
   <img src="https://img.icons8.com/color/48/000000/cloud.png"/>
@@ -33,7 +33,7 @@
 
 
 ## 💼 Professional Experience
-I am working as an **SRE**, where my responsibilities include:
+As an **SRE**, my responsibilities include:
 - Ensuring the reliability and performance of services.
 - Automating infrastructure and deployment pipelines.
 - Managing cloud resources and Kubernetes clusters.
