@@ -42,7 +42,7 @@
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/bitbucket.png" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" width="48" height="48" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" width="40" height="48" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" style="margin: 0 10px;"/>
