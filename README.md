@@ -3,7 +3,11 @@
 
 ## 🌍 Based in Romania 🇷🇴
 
-<p align="center">
+<div align="center">
+  I'm a passionate and detail-oriented <strong>Site Reliability Engineer (SRE)</strong>. I have experience in a variety of technical areas, including Linux, networking, cloud computing (GCP), Kubernetes, and more. I'm always excited about new challenges and finding innovative solutions.
+</div>
+
+<p align="center" style="margin-top: 20px;">
   <img src="https://img.icons8.com/color/48/000000/rocket.png"/>
   <img src="https://img.icons8.com/color/48/000000/laptop.png"/>
   <img src="https://img.icons8.com/color/48/000000/cloud.png"/>
@@ -18,8 +22,6 @@
  
  💬 Want to know more? **Contact me [here](https://alexgrajdan.github.io/#contact)**
  
-⚡ Fun fact: **The phone number shown in Squid Game was real and received over 4,000 calls per day, leading Netflix to edit it out**
-
 </div>
 
 <div align="center"> 
@@ -29,7 +31,14 @@
 </div>
 
 
----
+
+## 💼 Professional Experience
+I am working as an **SRE**, where my responsibilities include:
+- Ensuring the reliability and performance of services.
+- Automating infrastructure and deployment pipelines.
+- Managing cloud resources and Kubernetes clusters.
+- Monitoring and troubleshooting applications and networks.
+
 
 ## 🎯 Skills & Technologies
 
@@ -49,20 +58,20 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin: 0 10px;"/>
 </p>
 
----
+
 
 ## 🚀 Projects
 
 - [Personal Portfolio](https://github.com/alexgrajdan/alexgrajdan.github.io)  
 _Showcase of my skills and work._
 
----
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexgrajdan&show_icons=true&theme=radical)
 
----
+
 
 ## 📬 Get in Touch
 
