@@ -1,39 +1,66 @@
-# Welcome to My GitHub Profile! 👋
+# Hi there! 👋 I'm Alex Grăjdan
 
-## About Me
 
-Hi there! I'm **Alex Grajdan**, a passionate and detail-oriented **Site Reliability Engineer (SRE)**. I have experience in a variety of technical areas, including Linux, networking, cloud computing (GCP), Kubernetes, and more. I'm always excited about new challenges and finding innovative solutions.
+## 🌍 Based in Romania 🇷🇴
 
-🔧 **Skills & Technologies**:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/rocket.png"/>
+  <img src="https://img.icons8.com/color/48/000000/laptop.png"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png"/>
+  <img src="https://img.icons8.com/color/48/000000/network.png"/>
+</p>
+  
+<div align="center">
+ 
+ 🔭 I’m currently working on **a portfolio project**
+ 
+ 🌱 I’m currently learning **Docker, Kubernetes, Cloud**
+ 
+ 💬 Want to know more? **Contact me [here](https://alexgrajdan.github.io/#contact)**
+ 
+⚡ Fun fact: **The phone number shown in Squid Game was real and received over 4,000 calls per day, leading Netflix to edit it out**
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Cloud**: Google Cloud Platform (GCP), AWS (beginner)
-- **Containerization**: Kubernetes
-- **Operating Systems**: Linux
-- **Networking**: Networking protocols, troubleshooting
-- **Tools**: Terraform, Pulumi, CI/CD, Git, Docker, Prometheus, Grafana, etc.
+</div>
+
+<div align="center"> 
+  <a href="https://alexgrajdan.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/My%20website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+
+---
+
+## 🎯 Skills & Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/bash.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" width="48" height="48" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin: 0 10px;"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the highlights of my work:
+- [Personal Portfolio](https://github.com/alexgrajdan/alexgrajdan.github.io)  
+_Showcase of my skills and work._
 
-### [Personal Portfolio](https://github.com/alexgrajdan/alexgrajdan.github.io)
+---
 
-A showcase of my skills, projects, and accomplishments. Currently working on migrating this site to the cloud (AWS/Azure).
+## 📊 GitHub Stats
 
-
-![Portfolio](https://github.com/alexgrajdan/alexgrajdan/blob/main/img/website%20main%20photo.png?raw=true)
-
-## 💼 Professional Experience
-
-I have worked as an **SRE**, where my responsibilities include:
-
-- Ensuring the reliability and performance of services.
-- Automating infrastructure and deployment pipelines.
-- Managing cloud resources and Kubernetes clusters.
-- Monitoring and troubleshooting applications and networks.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexgrajdan&show_icons=true&theme=radical)
 
 ---
 
@@ -43,21 +70,3 @@ Feel free to reach out to me:
 
 - LinkedIn 🔗: [linkedin.com/in/alexgrajdan](https://www.linkedin.com/in/alexandru-gr%C4%83jdan-542a29205/)
 - Contact form ✉: [Get in touch](https://alexgrajdan.github.io/#contact)
-
----
-
-## 🌱 Currently Learning
-
-- Diving deeper into cloud technologies.
-- Exploring more advanced Kubernetes concepts.
-- Enhancing my skills in Python for automation.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexgrajdan&show_icons=true&count_private=true&theme=radical)
-
----
-
-Thank you for visiting my profile! Let's connect and collaborate. 😄
