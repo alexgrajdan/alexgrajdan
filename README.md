@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Alex Grăjdan
 
 
-## 🌍 Based in Romania 🇷🇴
+## 🌍 Tech enthusiast based in Romania 🇷🇴
 
 <div align="center">
   I'm a passionate and detail-oriented <strong>Site Reliability Engineer (SRE)</strong>. I have experience in a variety of technical areas, including Linux, networking, cloud computing (GCP), Kubernetes, and more. I'm always excited about new challenges and finding innovative solutions.
