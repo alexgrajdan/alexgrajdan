@@ -20,12 +20,12 @@
  
  🌱 I’m currently learning **Docker, Kubernetes, Cloud**
  
- 💬 Want to know more? **Contact me [here](https://alexgrajdan.github.io/#contact)**
+ 💬 Want to know more? **Contact me [here](https://alexdevops.com/#contact)**
  
 </div>
 
 <div align="center"> 
-  <a href="https://alexgrajdan.github.io/" target="_blank">
+  <a href="https://alexdevops.com/" target="_blank">
   <img src="https://img.shields.io/badge/My%20website-00BCD4?style=for-the-badge&logo=todoist&logoColor=white" alt="My website" />
 </a>
 </div>
@@ -45,6 +45,7 @@ As an **SRE**, my responsibilities include:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/bash.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" style="margin: 0 10px;"/>
@@ -79,4 +80,4 @@ _Showcase of my skills and work._
 Feel free to reach out to me:
 
 - LinkedIn 🔗: [linkedin.com/in/alexgrajdan](https://www.linkedin.com/in/alexandru-gr%C4%83jdan-542a29205/)
-- Contact form ✉: [Get in touch](https://alexgrajdan.github.io/#contact)
+- Contact form ✉: [Get in touch](https://alexdevops.com/#contact)
