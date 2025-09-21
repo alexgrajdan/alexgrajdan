@@ -46,6 +46,7 @@ As an **SRE**, my responsibilities include:
   <img src="https://img.icons8.com/color/48/000000/python.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" style="margin: 0 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/bash.png" style="margin: 0 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" style="margin: 0 10px;"/>
