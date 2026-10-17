@@ -33,9 +33,9 @@
 
 
 ## 💼 Professional Experience
-As an **SRE**, my responsibilities include:
-- Ensuring the reliability and performance of services.
+As an **DevOps Engineer**, my responsibilities include:
 - Automating infrastructure and deployment pipelines.
+- Improving code delivery and mitigate all vulnerabilities.
 - Managing cloud resources and Kubernetes clusters.
 - Monitoring and troubleshooting applications and networks.
 
